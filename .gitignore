@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# README 用のデモ動画（GitHub の Issue へアップロードして URL 参照するため追跡しない）
+/docs/stella-beat-demo.mp4

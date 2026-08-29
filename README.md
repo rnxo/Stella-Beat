@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="docs/stella-beat-logo.png" alt="Stella Beat" width="480">
+</p>
+
 # Stella Beat
 
 Unity 製の 5 レーン鍵盤型リズムゲームです。JSON 譜面に沿って流れてくるノーツを `D` `F` `Space` `J` `K` で叩き、判定・コンボ・スコア（100 万点満点）とランクを競います。
+
+## デモ
+
+実際のプレイ映像です。
+
+<!-- DEMO_VIDEO: 下の 1 行を https://github.com/user-attachments/assets/... の URL に差し替えるとページ内で再生されます -->
+
+_（デモ動画をここに埋め込み予定）_
 
 ## リポジトリ構成
 
