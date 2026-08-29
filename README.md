@@ -10,9 +10,7 @@ Unity 製の 5 レーン鍵盤型リズムゲームです。JSON 譜面に沿っ
 
 実際のプレイ映像です。
 
-<!-- DEMO_VIDEO: 下の 1 行を https://github.com/user-attachments/assets/... の URL に差し替えるとページ内で再生されます -->
-
-_（デモ動画をここに埋め込み予定）_
+https://github.com/user-attachments/assets/95fad1d1-256a-45af-9913-f4ebf15ee156
 
 ## リポジトリ構成
 
